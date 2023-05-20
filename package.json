@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^1.7.1",
+    "discord.js": "^14.11.0",
+    "express": "^4.18.2",
+    "fs": "^0.0.2",
+    "kawaii-api": "^1.1.1",
+    "lodash.uniqwith": "^4.5.0",
+    "moment": "^2.29.4",
+    "nekos.life": "^3.0.0",
+    "node-fetch": "^3.3.1",
+    "openai": "^3.2.1",
+    "something-random-on-discord": "^3.4.4"
+  }
+}
